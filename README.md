@@ -38,9 +38,9 @@ This project presents an interactive Power BI dashboard analyzing e-commerce sal
 
 ## 📁 Files Included
 
-* `Ecommerce_Dashboard.pbix` → Power BI dashboard file
-* `online_retail.csv` → Dataset used
-* `screenshots/` → Dashboard previews
+- **Ecommerce_Dashboard.pbix** — Power BI dashboard file  
+- **online_retail.csv** — Dataset used  
+- **page1.png, page2.png, page3.png** — Dashboard preview screenshots    
 
 ---
 
