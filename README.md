@@ -61,8 +61,11 @@ This project presents an interactive Power BI dashboard analyzing e-commerce sal
 ---
 
 ## 📷 Dashboard Preview
+
 ![Page 1](page1.png)
+
 ![Page 2](page2.png)
+
 ![Page 3](page3.png)
 
 ---
